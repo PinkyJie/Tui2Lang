@@ -1,0 +1,11 @@
+### 请严格按照说明填写 有疑问请联系 @PinkyJie
+# 第一行：Twitter用户名
+# 第二行：新浪微博登录邮箱
+# 第三行：新浪微博登录密码
+# 第四行：你自己的应用app key
+#
+#
+xxxxxx
+xxxx@xxx.com
+xxxxx
+xxxxxx

@@ -1,0 +1,12 @@
+application: mypytest123
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /cron_sync
+  script: twina.py
+  login: admin
+
+- url: /.*
+  script: twina.py
