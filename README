@@ -1,4 +1,21 @@
-----------introduction------------
-- a tool synchronize your tweets from Twitter to SinaWeibo
-- powered by python & Sina python API
-- built on Google App Engine
+Tui2Lang v 1.0
+
+=== Introduction ===
+Tui2Lang is a simple tool to synchronize your tweet from Twitter to Sina Weibo.
+Tui2Lang comes frome Chinese PinYin: Tuite to XinLang.
+
+Name: Tui2Lang
+Version: v 1.0
+Support Browser: Firefox & Chrome & IE
+
+=== Features ===
+1. built on Google App Engine using python SDK
+2. support Oauth Login
+3. once login, synchronize everytime
+
+Need more information? visit a sample site using Tui2Lang: http://tui2lang.appspot.com
+
+=== About Author ===
+Author: PinkyJie
+Contact: pilixiaoxuanfeng@gmail.com
+Website: http://pinkyway.info
